@@ -4,9 +4,9 @@ var __commonJS = (cb, mod) => function __require() {
   return mod || (0, cb[__getOwnPropNames(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
 };
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/helpers/util.cjs
+// node_modules/zod/v3/helpers/util.cjs
 var require_util = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/helpers/util.cjs"(exports2) {
+  "node_modules/zod/v3/helpers/util.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getParsedType = exports2.ZodParsedType = exports2.objectUtil = exports2.util = void 0;
@@ -146,9 +146,9 @@ var require_util = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/ZodError.cjs
+// node_modules/zod/v3/ZodError.cjs
 var require_ZodError = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/ZodError.cjs"(exports2) {
+  "node_modules/zod/v3/ZodError.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ZodError = exports2.quotelessJson = exports2.ZodIssueCode = void 0;
@@ -274,9 +274,9 @@ var require_ZodError = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/locales/en.cjs
+// node_modules/zod/v3/locales/en.cjs
 var require_en = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/locales/en.cjs"(exports2, module2) {
+  "node_modules/zod/v3/locales/en.cjs"(exports2, module2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var ZodError_js_1 = require_ZodError();
@@ -386,9 +386,9 @@ var require_en = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/errors.cjs
+// node_modules/zod/v3/errors.cjs
 var require_errors = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/errors.cjs"(exports2) {
+  "node_modules/zod/v3/errors.cjs"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -409,9 +409,9 @@ var require_errors = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/helpers/parseUtil.cjs
+// node_modules/zod/v3/helpers/parseUtil.cjs
 var require_parseUtil = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/helpers/parseUtil.cjs"(exports2) {
+  "node_modules/zod/v3/helpers/parseUtil.cjs"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -540,17 +540,17 @@ var require_parseUtil = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/helpers/typeAliases.cjs
+// node_modules/zod/v3/helpers/typeAliases.cjs
 var require_typeAliases = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/helpers/typeAliases.cjs"(exports2) {
+  "node_modules/zod/v3/helpers/typeAliases.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/helpers/errorUtil.cjs
+// node_modules/zod/v3/helpers/errorUtil.cjs
 var require_errorUtil = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/helpers/errorUtil.cjs"(exports2) {
+  "node_modules/zod/v3/helpers/errorUtil.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.errorUtil = void 0;
@@ -562,9 +562,9 @@ var require_errorUtil = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/types.cjs
+// node_modules/zod/v3/types.cjs
 var require_types = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/types.cjs"(exports2) {
+  "node_modules/zod/v3/types.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.discriminatedUnion = exports2.date = exports2.boolean = exports2.bigint = exports2.array = exports2.any = exports2.coerce = exports2.ZodFirstPartyTypeKind = exports2.late = exports2.ZodSchema = exports2.Schema = exports2.ZodReadonly = exports2.ZodPipeline = exports2.ZodBranded = exports2.BRAND = exports2.ZodNaN = exports2.ZodCatch = exports2.ZodDefault = exports2.ZodNullable = exports2.ZodOptional = exports2.ZodTransformer = exports2.ZodEffects = exports2.ZodPromise = exports2.ZodNativeEnum = exports2.ZodEnum = exports2.ZodLiteral = exports2.ZodLazy = exports2.ZodFunction = exports2.ZodSet = exports2.ZodMap = exports2.ZodRecord = exports2.ZodTuple = exports2.ZodIntersection = exports2.ZodDiscriminatedUnion = exports2.ZodUnion = exports2.ZodObject = exports2.ZodArray = exports2.ZodVoid = exports2.ZodNever = exports2.ZodUnknown = exports2.ZodAny = exports2.ZodNull = exports2.ZodUndefined = exports2.ZodSymbol = exports2.ZodDate = exports2.ZodBoolean = exports2.ZodBigInt = exports2.ZodNumber = exports2.ZodString = exports2.ZodType = void 0;
@@ -4104,9 +4104,9 @@ var require_types = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/external.cjs
+// node_modules/zod/v3/external.cjs
 var require_external = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/external.cjs"(exports2) {
+  "node_modules/zod/v3/external.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -4138,9 +4138,9 @@ var require_external = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/index.cjs
+// node_modules/zod/v3/index.cjs
 var require_v3 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v3/index.cjs"(exports2) {
+  "node_modules/zod/v3/index.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -4188,9 +4188,9 @@ var require_v3 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/core.cjs
+// node_modules/zod/v4/core/core.cjs
 var require_core = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/core.cjs"(exports2) {
+  "node_modules/zod/v4/core/core.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.globalConfig = exports2.$ZodEncodeError = exports2.$ZodAsyncError = exports2.$brand = exports2.NEVER = void 0;
@@ -4273,9 +4273,9 @@ var require_core = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/util.cjs
+// node_modules/zod/v4/core/util.cjs
 var require_util2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/util.cjs"(exports2) {
+  "node_modules/zod/v4/core/util.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Class = exports2.BIGINT_FORMAT_RANGES = exports2.NUMBER_FORMAT_RANGES = exports2.primitiveTypes = exports2.propertyKeyTypes = exports2.getParsedType = exports2.allowsEval = exports2.captureStackTrace = void 0;
@@ -4950,9 +4950,9 @@ var require_util2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/errors.cjs
+// node_modules/zod/v4/core/errors.cjs
 var require_errors2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/errors.cjs"(exports2) {
+  "node_modules/zod/v4/core/errors.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -5132,9 +5132,9 @@ var require_errors2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/parse.cjs
+// node_modules/zod/v4/core/parse.cjs
 var require_parse = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/parse.cjs"(exports2) {
+  "node_modules/zod/v4/core/parse.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -5274,9 +5274,9 @@ var require_parse = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/regexes.cjs
+// node_modules/zod/v4/core/regexes.cjs
 var require_regexes = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/regexes.cjs"(exports2) {
+  "node_modules/zod/v4/core/regexes.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -5419,9 +5419,9 @@ var require_regexes = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/checks.cjs
+// node_modules/zod/v4/core/checks.cjs
 var require_checks = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/checks.cjs"(exports2) {
+  "node_modules/zod/v4/core/checks.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -6009,9 +6009,9 @@ var require_checks = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/doc.cjs
+// node_modules/zod/v4/core/doc.cjs
 var require_doc = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/doc.cjs"(exports2) {
+  "node_modules/zod/v4/core/doc.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Doc = void 0;
@@ -6053,9 +6053,9 @@ var require_doc = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/versions.cjs
+// node_modules/zod/v4/core/versions.cjs
 var require_versions = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/versions.cjs"(exports2) {
+  "node_modules/zod/v4/core/versions.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.version = void 0;
@@ -6067,9 +6067,9 @@ var require_versions = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/schemas.cjs
+// node_modules/zod/v4/core/schemas.cjs
 var require_schemas = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/schemas.cjs"(exports2) {
+  "node_modules/zod/v4/core/schemas.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -8092,9 +8092,9 @@ var require_schemas = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ar.cjs
+// node_modules/zod/v4/locales/ar.cjs
 var require_ar = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ar.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ar.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -8240,9 +8240,9 @@ var require_ar = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/az.cjs
+// node_modules/zod/v4/locales/az.cjs
 var require_az = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/az.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/az.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -8387,9 +8387,9 @@ var require_az = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/be.cjs
+// node_modules/zod/v4/locales/be.cjs
 var require_be = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/be.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/be.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -8585,9 +8585,9 @@ var require_be = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/bg.cjs
+// node_modules/zod/v4/locales/bg.cjs
 var require_bg = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/bg.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/bg.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -8747,9 +8747,9 @@ var require_bg = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ca.cjs
+// node_modules/zod/v4/locales/ca.cjs
 var require_ca = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ca.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ca.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -8896,9 +8896,9 @@ var require_ca = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/cs.cjs
+// node_modules/zod/v4/locales/cs.cjs
 var require_cs = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/cs.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/cs.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -9049,9 +9049,9 @@ var require_cs = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/da.cjs
+// node_modules/zod/v4/locales/da.cjs
 var require_da = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/da.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/da.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -9206,9 +9206,9 @@ var require_da = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/de.cjs
+// node_modules/zod/v4/locales/de.cjs
 var require_de = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/de.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/de.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -9356,9 +9356,9 @@ var require_de = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/en.cjs
+// node_modules/zod/v4/locales/en.cjs
 var require_en2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/en.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/en.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -9506,9 +9506,9 @@ var require_en2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/eo.cjs
+// node_modules/zod/v4/locales/eo.cjs
 var require_eo = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/eo.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/eo.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -9657,9 +9657,9 @@ var require_eo = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/es.cjs
+// node_modules/zod/v4/locales/es.cjs
 var require_es = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/es.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/es.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -9831,9 +9831,9 @@ var require_es = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/fa.cjs
+// node_modules/zod/v4/locales/fa.cjs
 var require_fa = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/fa.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/fa.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -9987,9 +9987,9 @@ var require_fa = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/fi.cjs
+// node_modules/zod/v4/locales/fi.cjs
 var require_fi = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/fi.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/fi.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -10141,9 +10141,9 @@ var require_fi = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/fr.cjs
+// node_modules/zod/v4/locales/fr.cjs
 var require_fr = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/fr.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/fr.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -10291,9 +10291,9 @@ var require_fr = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/fr-CA.cjs
+// node_modules/zod/v4/locales/fr-CA.cjs
 var require_fr_CA = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/fr-CA.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/fr-CA.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -10440,9 +10440,9 @@ var require_fr_CA = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/he.cjs
+// node_modules/zod/v4/locales/he.cjs
 var require_he = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/he.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/he.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -10676,9 +10676,9 @@ var require_he = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/hu.cjs
+// node_modules/zod/v4/locales/hu.cjs
 var require_hu = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/hu.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/hu.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -10826,9 +10826,9 @@ var require_hu = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/hy.cjs
+// node_modules/zod/v4/locales/hy.cjs
 var require_hy = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/hy.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/hy.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -11015,9 +11015,9 @@ var require_hy = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/id.cjs
+// node_modules/zod/v4/locales/id.cjs
 var require_id = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/id.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/id.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -11163,9 +11163,9 @@ var require_id = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/is.cjs
+// node_modules/zod/v4/locales/is.cjs
 var require_is = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/is.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/is.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -11314,9 +11314,9 @@ var require_is = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/it.cjs
+// node_modules/zod/v4/locales/it.cjs
 var require_it = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/it.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/it.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -11464,9 +11464,9 @@ var require_it = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ja.cjs
+// node_modules/zod/v4/locales/ja.cjs
 var require_ja = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ja.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ja.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -11613,9 +11613,9 @@ var require_ja = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ka.cjs
+// node_modules/zod/v4/locales/ka.cjs
 var require_ka = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ka.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ka.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -11767,9 +11767,9 @@ var require_ka = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/km.cjs
+// node_modules/zod/v4/locales/km.cjs
 var require_km = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/km.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/km.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -11919,9 +11919,9 @@ var require_km = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/kh.cjs
+// node_modules/zod/v4/locales/kh.cjs
 var require_kh = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/kh.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/kh.cjs"(exports2, module2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -11936,9 +11936,9 @@ var require_kh = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ko.cjs
+// node_modules/zod/v4/locales/ko.cjs
 var require_ko = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ko.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ko.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -12089,9 +12089,9 @@ var require_ko = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/lt.cjs
+// node_modules/zod/v4/locales/lt.cjs
 var require_lt = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/lt.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/lt.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -12334,9 +12334,9 @@ var require_lt = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/mk.cjs
+// node_modules/zod/v4/locales/mk.cjs
 var require_mk = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/mk.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/mk.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -12485,9 +12485,9 @@ var require_mk = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ms.cjs
+// node_modules/zod/v4/locales/ms.cjs
 var require_ms = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ms.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ms.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -12634,9 +12634,9 @@ var require_ms = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/nl.cjs
+// node_modules/zod/v4/locales/nl.cjs
 var require_nl = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/nl.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/nl.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -12786,9 +12786,9 @@ var require_nl = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/no.cjs
+// node_modules/zod/v4/locales/no.cjs
 var require_no = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/no.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/no.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -12936,9 +12936,9 @@ var require_no = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ota.cjs
+// node_modules/zod/v4/locales/ota.cjs
 var require_ota = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ota.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ota.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -13087,9 +13087,9 @@ var require_ota = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ps.cjs
+// node_modules/zod/v4/locales/ps.cjs
 var require_ps = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ps.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ps.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -13243,9 +13243,9 @@ var require_ps = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/pl.cjs
+// node_modules/zod/v4/locales/pl.cjs
 var require_pl = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/pl.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/pl.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -13394,9 +13394,9 @@ var require_pl = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/pt.cjs
+// node_modules/zod/v4/locales/pt.cjs
 var require_pt = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/pt.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/pt.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -13544,9 +13544,9 @@ var require_pt = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ru.cjs
+// node_modules/zod/v4/locales/ru.cjs
 var require_ru = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ru.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ru.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -13742,9 +13742,9 @@ var require_ru = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/sl.cjs
+// node_modules/zod/v4/locales/sl.cjs
 var require_sl = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/sl.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/sl.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -13893,9 +13893,9 @@ var require_sl = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/sv.cjs
+// node_modules/zod/v4/locales/sv.cjs
 var require_sv = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/sv.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/sv.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -14045,9 +14045,9 @@ var require_sv = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ta.cjs
+// node_modules/zod/v4/locales/ta.cjs
 var require_ta = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ta.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ta.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -14197,9 +14197,9 @@ var require_ta = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/th.cjs
+// node_modules/zod/v4/locales/th.cjs
 var require_th = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/th.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/th.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -14349,9 +14349,9 @@ var require_th = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/tr.cjs
+// node_modules/zod/v4/locales/tr.cjs
 var require_tr = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/tr.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/tr.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -14496,9 +14496,9 @@ var require_tr = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/uk.cjs
+// node_modules/zod/v4/locales/uk.cjs
 var require_uk = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/uk.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/uk.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -14646,9 +14646,9 @@ var require_uk = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ua.cjs
+// node_modules/zod/v4/locales/ua.cjs
 var require_ua = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ua.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ua.cjs"(exports2, module2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -14663,9 +14663,9 @@ var require_ua = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ur.cjs
+// node_modules/zod/v4/locales/ur.cjs
 var require_ur = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/ur.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/ur.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -14815,9 +14815,9 @@ var require_ur = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/uz.cjs
+// node_modules/zod/v4/locales/uz.cjs
 var require_uz = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/uz.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/uz.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -14966,9 +14966,9 @@ var require_uz = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/vi.cjs
+// node_modules/zod/v4/locales/vi.cjs
 var require_vi = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/vi.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/vi.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -15116,9 +15116,9 @@ var require_vi = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/zh-CN.cjs
+// node_modules/zod/v4/locales/zh-CN.cjs
 var require_zh_CN = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/zh-CN.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/zh-CN.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -15267,9 +15267,9 @@ var require_zh_CN = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/zh-TW.cjs
+// node_modules/zod/v4/locales/zh-TW.cjs
 var require_zh_TW = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/zh-TW.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/zh-TW.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -15416,9 +15416,9 @@ var require_zh_TW = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/yo.cjs
+// node_modules/zod/v4/locales/yo.cjs
 var require_yo = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/yo.cjs"(exports2, module2) {
+  "node_modules/zod/v4/locales/yo.cjs"(exports2, module2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -15565,9 +15565,9 @@ var require_yo = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/index.cjs
+// node_modules/zod/v4/locales/index.cjs
 var require_locales = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/locales/index.cjs"(exports2) {
+  "node_modules/zod/v4/locales/index.cjs"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -15773,9 +15773,9 @@ var require_locales = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/registries.cjs
+// node_modules/zod/v4/core/registries.cjs
 var require_registries = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/registries.cjs"(exports2) {
+  "node_modules/zod/v4/core/registries.cjs"(exports2) {
     "use strict";
     var _a;
     Object.defineProperty(exports2, "__esModule", { value: true });
@@ -15832,9 +15832,9 @@ var require_registries = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/api.cjs
+// node_modules/zod/v4/core/api.cjs
 var require_api = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/api.cjs"(exports2) {
+  "node_modules/zod/v4/core/api.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -17034,9 +17034,9 @@ var require_api = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/to-json-schema.cjs
+// node_modules/zod/v4/core/to-json-schema.cjs
 var require_to_json_schema = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/to-json-schema.cjs"(exports2) {
+  "node_modules/zod/v4/core/to-json-schema.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.createStandardJSONSchemaMethod = exports2.createToJSONSchemaMethod = void 0;
@@ -17400,9 +17400,9 @@ Set the \`cycles\` parameter to \`"ref"\` to resolve cyclical schemas with defs.
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/json-schema-processors.cjs
+// node_modules/zod/v4/core/json-schema-processors.cjs
 var require_json_schema_processors = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/json-schema-processors.cjs"(exports2) {
+  "node_modules/zod/v4/core/json-schema-processors.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.allProcessors = exports2.lazyProcessor = exports2.optionalProcessor = exports2.promiseProcessor = exports2.readonlyProcessor = exports2.pipeProcessor = exports2.catchProcessor = exports2.prefaultProcessor = exports2.defaultProcessor = exports2.nonoptionalProcessor = exports2.nullableProcessor = exports2.recordProcessor = exports2.tupleProcessor = exports2.intersectionProcessor = exports2.unionProcessor = exports2.objectProcessor = exports2.arrayProcessor = exports2.setProcessor = exports2.mapProcessor = exports2.transformProcessor = exports2.functionProcessor = exports2.customProcessor = exports2.successProcessor = exports2.fileProcessor = exports2.templateLiteralProcessor = exports2.nanProcessor = exports2.literalProcessor = exports2.enumProcessor = exports2.dateProcessor = exports2.unknownProcessor = exports2.anyProcessor = exports2.neverProcessor = exports2.voidProcessor = exports2.undefinedProcessor = exports2.nullProcessor = exports2.symbolProcessor = exports2.bigintProcessor = exports2.booleanProcessor = exports2.numberProcessor = exports2.stringProcessor = void 0;
@@ -18000,9 +18000,9 @@ var require_json_schema_processors = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/json-schema-generator.cjs
+// node_modules/zod/v4/core/json-schema-generator.cjs
 var require_json_schema_generator = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/json-schema-generator.cjs"(exports2) {
+  "node_modules/zod/v4/core/json-schema-generator.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.JSONSchemaGenerator = void 0;
@@ -18085,17 +18085,17 @@ var require_json_schema_generator = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/json-schema.cjs
+// node_modules/zod/v4/core/json-schema.cjs
 var require_json_schema = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/json-schema.cjs"(exports2) {
+  "node_modules/zod/v4/core/json-schema.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/index.cjs
+// node_modules/zod/v4/core/index.cjs
 var require_core2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/core/index.cjs"(exports2) {
+  "node_modules/zod/v4/core/index.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -18161,9 +18161,9 @@ var require_core2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/parse.cjs
+// node_modules/zod/v4/mini/parse.cjs
 var require_parse2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/parse.cjs"(exports2) {
+  "node_modules/zod/v4/mini/parse.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.safeDecodeAsync = exports2.safeEncodeAsync = exports2.safeDecode = exports2.safeEncode = exports2.decodeAsync = exports2.encodeAsync = exports2.decode = exports2.encode = exports2.safeParseAsync = exports2.parseAsync = exports2.safeParse = exports2.parse = void 0;
@@ -18207,9 +18207,9 @@ var require_parse2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/schemas.cjs
+// node_modules/zod/v4/mini/schemas.cjs
 var require_schemas2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/schemas.cjs"(exports2) {
+  "node_modules/zod/v4/mini/schemas.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -19227,9 +19227,9 @@ var require_schemas2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/checks.cjs
+// node_modules/zod/v4/mini/checks.cjs
 var require_checks2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/checks.cjs"(exports2) {
+  "node_modules/zod/v4/mini/checks.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.toUpperCase = exports2.toLowerCase = exports2.trim = exports2.normalize = exports2.overwrite = exports2.mime = exports2.property = exports2.endsWith = exports2.startsWith = exports2.includes = exports2.uppercase = exports2.lowercase = exports2.regex = exports2.length = exports2.minLength = exports2.maxLength = exports2.size = exports2.minSize = exports2.maxSize = exports2.multipleOf = exports2.nonnegative = exports2.nonpositive = exports2.negative = exports2.positive = exports2.minimum = exports2.gte = exports2.gt = exports2.maximum = exports2.lte = exports2.lt = void 0;
@@ -19327,9 +19327,9 @@ var require_checks2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/iso.cjs
+// node_modules/zod/v4/mini/iso.cjs
 var require_iso = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/iso.cjs"(exports2) {
+  "node_modules/zod/v4/mini/iso.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -19406,9 +19406,9 @@ var require_iso = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/coerce.cjs
+// node_modules/zod/v4/mini/coerce.cjs
 var require_coerce = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/coerce.cjs"(exports2) {
+  "node_modules/zod/v4/mini/coerce.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -19473,9 +19473,9 @@ var require_coerce = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/external.cjs
+// node_modules/zod/v4/mini/external.cjs
 var require_external2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/mini/external.cjs"(exports2) {
+  "node_modules/zod/v4/mini/external.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -19589,9 +19589,9 @@ var require_external2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4-mini/index.cjs
+// node_modules/zod/v4-mini/index.cjs
 var require_v4_mini = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4-mini/index.cjs"(exports2) {
+  "node_modules/zod/v4-mini/index.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -19832,9 +19832,9 @@ var require_zod_compat = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/checks.cjs
+// node_modules/zod/v4/classic/checks.cjs
 var require_checks3 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/checks.cjs"(exports2) {
+  "node_modules/zod/v4/classic/checks.cjs"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.slugify = exports2.toUpperCase = exports2.toLowerCase = exports2.trim = exports2.normalize = exports2.overwrite = exports2.mime = exports2.property = exports2.endsWith = exports2.startsWith = exports2.includes = exports2.uppercase = exports2.lowercase = exports2.regex = exports2.length = exports2.minLength = exports2.maxLength = exports2.size = exports2.minSize = exports2.maxSize = exports2.multipleOf = exports2.nonnegative = exports2.nonpositive = exports2.negative = exports2.positive = exports2.gte = exports2.gt = exports2.lte = exports2.lt = void 0;
@@ -19929,9 +19929,9 @@ var require_checks3 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/iso.cjs
+// node_modules/zod/v4/classic/iso.cjs
 var require_iso2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/iso.cjs"(exports2) {
+  "node_modules/zod/v4/classic/iso.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -20004,9 +20004,9 @@ var require_iso2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/errors.cjs
+// node_modules/zod/v4/classic/errors.cjs
 var require_errors3 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/errors.cjs"(exports2) {
+  "node_modules/zod/v4/classic/errors.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -20086,9 +20086,9 @@ var require_errors3 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/parse.cjs
+// node_modules/zod/v4/classic/parse.cjs
 var require_parse3 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/parse.cjs"(exports2) {
+  "node_modules/zod/v4/classic/parse.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -20141,9 +20141,9 @@ var require_parse3 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/schemas.cjs
+// node_modules/zod/v4/classic/schemas.cjs
 var require_schemas3 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/schemas.cjs"(exports2) {
+  "node_modules/zod/v4/classic/schemas.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -21362,9 +21362,9 @@ var require_schemas3 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/compat.cjs
+// node_modules/zod/v4/classic/compat.cjs
 var require_compat = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/compat.cjs"(exports2) {
+  "node_modules/zod/v4/classic/compat.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -21437,9 +21437,9 @@ var require_compat = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/from-json-schema.cjs
+// node_modules/zod/v4/classic/from-json-schema.cjs
 var require_from_json_schema = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/from-json-schema.cjs"(exports2) {
+  "node_modules/zod/v4/classic/from-json-schema.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -21954,9 +21954,9 @@ var require_from_json_schema = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/coerce.cjs
+// node_modules/zod/v4/classic/coerce.cjs
 var require_coerce2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/coerce.cjs"(exports2) {
+  "node_modules/zod/v4/classic/coerce.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -22016,9 +22016,9 @@ var require_coerce2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/external.cjs
+// node_modules/zod/v4/classic/external.cjs
 var require_external3 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/external.cjs"(exports2) {
+  "node_modules/zod/v4/classic/external.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -22144,9 +22144,9 @@ var require_external3 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/index.cjs
+// node_modules/zod/v4/classic/index.cjs
 var require_classic = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/classic/index.cjs"(exports2) {
+  "node_modules/zod/v4/classic/index.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -22194,9 +22194,9 @@ var require_classic = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/index.cjs
+// node_modules/zod/v4/index.cjs
 var require_v4 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod/v4/index.cjs"(exports2) {
+  "node_modules/zod/v4/index.cjs"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -23817,9 +23817,9 @@ var require_interfaces = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/Options.js
+// node_modules/zod-to-json-schema/dist/cjs/Options.js
 var require_Options = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/Options.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/Options.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getDefaultOptions = exports2.defaultOptions = exports2.jsonDescription = exports2.ignoreOverride = void 0;
@@ -23872,9 +23872,9 @@ var require_Options = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/Refs.js
+// node_modules/zod-to-json-schema/dist/cjs/Refs.js
 var require_Refs = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/Refs.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/Refs.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getRefs = void 0;
@@ -23902,9 +23902,9 @@ var require_Refs = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/errorMessages.js
+// node_modules/zod-to-json-schema/dist/cjs/errorMessages.js
 var require_errorMessages = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/errorMessages.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/errorMessages.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.setResponseValueAndErrors = exports2.addErrorMessage = void 0;
@@ -23927,9 +23927,9 @@ var require_errorMessages = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/getRelativePath.js
+// node_modules/zod-to-json-schema/dist/cjs/getRelativePath.js
 var require_getRelativePath = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/getRelativePath.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/getRelativePath.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getRelativePath = void 0;
@@ -23945,9 +23945,9 @@ var require_getRelativePath = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/any.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/any.js
 var require_any = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/any.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/any.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseAnyDef = void 0;
@@ -23970,9 +23970,9 @@ var require_any = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/array.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/array.js
 var require_array = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/array.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/array.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseArrayDef = void 0;
@@ -24005,9 +24005,9 @@ var require_array = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/bigint.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/bigint.js
 var require_bigint = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/bigint.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/bigint.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseBigintDef = void 0;
@@ -24060,9 +24060,9 @@ var require_bigint = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/boolean.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/boolean.js
 var require_boolean = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/boolean.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/boolean.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseBooleanDef = void 0;
@@ -24075,9 +24075,9 @@ var require_boolean = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/branded.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/branded.js
 var require_branded = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/branded.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/branded.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseBrandedDef = void 0;
@@ -24089,9 +24089,9 @@ var require_branded = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/catch.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/catch.js
 var require_catch = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/catch.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/catch.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseCatchDef = void 0;
@@ -24103,9 +24103,9 @@ var require_catch = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/date.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/date.js
 var require_date = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/date.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/date.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseDateDef = void 0;
@@ -24171,9 +24171,9 @@ var require_date = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/default.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/default.js
 var require_default = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/default.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/default.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseDefaultDef = void 0;
@@ -24188,9 +24188,9 @@ var require_default = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/effects.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/effects.js
 var require_effects = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/effects.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/effects.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseEffectsDef = void 0;
@@ -24203,9 +24203,9 @@ var require_effects = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/enum.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/enum.js
 var require_enum = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/enum.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/enum.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseEnumDef = void 0;
@@ -24219,9 +24219,9 @@ var require_enum = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/intersection.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/intersection.js
 var require_intersection = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/intersection.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/intersection.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseIntersectionDef = void 0;
@@ -24270,9 +24270,9 @@ var require_intersection = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/literal.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/literal.js
 var require_literal = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/literal.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/literal.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseLiteralDef = void 0;
@@ -24298,9 +24298,9 @@ var require_literal = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/string.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/string.js
 var require_string = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/string.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/string.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseStringDef = exports2.zodPatterns = void 0;
@@ -24632,9 +24632,9 @@ var require_string = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/record.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/record.js
 var require_record = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/record.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/record.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseRecordDef = void 0;
@@ -24697,9 +24697,9 @@ var require_record = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/map.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/map.js
 var require_map = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/map.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/map.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseMapDef = void 0;
@@ -24733,9 +24733,9 @@ var require_map = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/nativeEnum.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/nativeEnum.js
 var require_nativeEnum = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/nativeEnum.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/nativeEnum.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseNativeEnumDef = void 0;
@@ -24755,9 +24755,9 @@ var require_nativeEnum = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/never.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/never.js
 var require_never = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/never.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/never.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseNeverDef = void 0;
@@ -24774,9 +24774,9 @@ var require_never = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/null.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/null.js
 var require_null = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/null.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/null.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseNullDef = void 0;
@@ -24792,9 +24792,9 @@ var require_null = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/union.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/union.js
 var require_union = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/union.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/union.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseUnionDef = exports2.primitiveMappings = void 0;
@@ -24869,9 +24869,9 @@ var require_union = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/nullable.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/nullable.js
 var require_nullable = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/nullable.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/nullable.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseNullableDef = void 0;
@@ -24911,9 +24911,9 @@ var require_nullable = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/number.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/number.js
 var require_number = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/number.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/number.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseNumberDef = void 0;
@@ -24969,9 +24969,9 @@ var require_number = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/object.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/object.js
 var require_object = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/object.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/object.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseObjectDef = void 0;
@@ -25048,9 +25048,9 @@ var require_object = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/optional.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/optional.js
 var require_optional = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/optional.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/optional.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseOptionalDef = void 0;
@@ -25077,9 +25077,9 @@ var require_optional = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/pipeline.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/pipeline.js
 var require_pipeline = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/pipeline.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/pipeline.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parsePipelineDef = void 0;
@@ -25106,9 +25106,9 @@ var require_pipeline = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/promise.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/promise.js
 var require_promise = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/promise.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/promise.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parsePromiseDef = void 0;
@@ -25120,9 +25120,9 @@ var require_promise = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/set.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/set.js
 var require_set = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/set.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/set.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseSetDef = void 0;
@@ -25150,9 +25150,9 @@ var require_set = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/tuple.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/tuple.js
 var require_tuple = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/tuple.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/tuple.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseTupleDef = void 0;
@@ -25187,9 +25187,9 @@ var require_tuple = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/undefined.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/undefined.js
 var require_undefined = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/undefined.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/undefined.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseUndefinedDef = void 0;
@@ -25203,9 +25203,9 @@ var require_undefined = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/unknown.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/unknown.js
 var require_unknown = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/unknown.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/unknown.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseUnknownDef = void 0;
@@ -25217,9 +25217,9 @@ var require_unknown = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/readonly.js
+// node_modules/zod-to-json-schema/dist/cjs/parsers/readonly.js
 var require_readonly = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parsers/readonly.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parsers/readonly.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseReadonlyDef = void 0;
@@ -25231,9 +25231,9 @@ var require_readonly = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/selectParser.js
+// node_modules/zod-to-json-schema/dist/cjs/selectParser.js
 var require_selectParser = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/selectParser.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/selectParser.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.selectParser = void 0;
@@ -25346,9 +25346,9 @@ var require_selectParser = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parseDef.js
+// node_modules/zod-to-json-schema/dist/cjs/parseDef.js
 var require_parseDef = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parseDef.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parseDef.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parseDef = void 0;
@@ -25414,17 +25414,17 @@ var require_parseDef = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parseTypes.js
+// node_modules/zod-to-json-schema/dist/cjs/parseTypes.js
 var require_parseTypes = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/parseTypes.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/parseTypes.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/zodToJsonSchema.js
+// node_modules/zod-to-json-schema/dist/cjs/zodToJsonSchema.js
 var require_zodToJsonSchema = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/zodToJsonSchema.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/zodToJsonSchema.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.zodToJsonSchema = void 0;
@@ -25495,9 +25495,9 @@ var require_zodToJsonSchema = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/index.js
+// node_modules/zod-to-json-schema/dist/cjs/index.js
 var require_cjs = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/zod-to-json-schema/dist/cjs/index.js"(exports2) {
+  "node_modules/zod-to-json-schema/dist/cjs/index.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
@@ -26610,9 +26610,9 @@ var require_protocol = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/codegen/code.js
+// node_modules/ajv/dist/compile/codegen/code.js
 var require_code = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/codegen/code.js"(exports2) {
+  "node_modules/ajv/dist/compile/codegen/code.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.regexpCode = exports2.getEsmExportName = exports2.getProperty = exports2.safeStringify = exports2.stringify = exports2.strConcat = exports2.addCodeArg = exports2.str = exports2._ = exports2.nil = exports2._Code = exports2.Name = exports2.IDENTIFIER = exports2._CodeOrName = void 0;
@@ -26764,9 +26764,9 @@ var require_code = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/codegen/scope.js
+// node_modules/ajv/dist/compile/codegen/scope.js
 var require_scope = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/codegen/scope.js"(exports2) {
+  "node_modules/ajv/dist/compile/codegen/scope.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ValueScope = exports2.ValueScopeName = exports2.Scope = exports2.varKinds = exports2.UsedValueState = void 0;
@@ -26909,9 +26909,9 @@ var require_scope = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/codegen/index.js
+// node_modules/ajv/dist/compile/codegen/index.js
 var require_codegen = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/codegen/index.js"(exports2) {
+  "node_modules/ajv/dist/compile/codegen/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.or = exports2.and = exports2.not = exports2.CodeGen = exports2.operators = exports2.varKinds = exports2.ValueScopeName = exports2.ValueScope = exports2.Scope = exports2.Name = exports2.regexpCode = exports2.stringify = exports2.getProperty = exports2.nil = exports2.strConcat = exports2.str = exports2._ = void 0;
@@ -27629,9 +27629,9 @@ var require_codegen = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/util.js
+// node_modules/ajv/dist/compile/util.js
 var require_util3 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/util.js"(exports2) {
+  "node_modules/ajv/dist/compile/util.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.checkStrictMode = exports2.getErrorPath = exports2.Type = exports2.useFunc = exports2.setEvaluated = exports2.evaluatedPropsToName = exports2.mergeEvaluated = exports2.eachItem = exports2.unescapeJsonPointer = exports2.escapeJsonPointer = exports2.escapeFragment = exports2.unescapeFragment = exports2.schemaRefOrVal = exports2.schemaHasRulesButRef = exports2.schemaHasRules = exports2.checkUnknownRules = exports2.alwaysValidSchema = exports2.toHash = void 0;
@@ -27796,9 +27796,9 @@ var require_util3 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/names.js
+// node_modules/ajv/dist/compile/names.js
 var require_names = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/names.js"(exports2) {
+  "node_modules/ajv/dist/compile/names.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -27835,9 +27835,9 @@ var require_names = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/errors.js
+// node_modules/ajv/dist/compile/errors.js
 var require_errors4 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/errors.js"(exports2) {
+  "node_modules/ajv/dist/compile/errors.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.extendErrors = exports2.resetErrorsCount = exports2.reportExtraError = exports2.reportError = exports2.keyword$DataError = exports2.keywordError = void 0;
@@ -27957,9 +27957,9 @@ var require_errors4 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/boolSchema.js
+// node_modules/ajv/dist/compile/validate/boolSchema.js
 var require_boolSchema = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/boolSchema.js"(exports2) {
+  "node_modules/ajv/dist/compile/validate/boolSchema.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.boolOrEmptySchema = exports2.topBoolOrEmptySchema = void 0;
@@ -28008,9 +28008,9 @@ var require_boolSchema = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/rules.js
+// node_modules/ajv/dist/compile/rules.js
 var require_rules = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/rules.js"(exports2) {
+  "node_modules/ajv/dist/compile/rules.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getRules = exports2.isJSONType = void 0;
@@ -28039,9 +28039,9 @@ var require_rules = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/applicability.js
+// node_modules/ajv/dist/compile/validate/applicability.js
 var require_applicability = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/applicability.js"(exports2) {
+  "node_modules/ajv/dist/compile/validate/applicability.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.shouldUseRule = exports2.shouldUseGroup = exports2.schemaHasRulesForType = void 0;
@@ -28062,9 +28062,9 @@ var require_applicability = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/dataType.js
+// node_modules/ajv/dist/compile/validate/dataType.js
 var require_dataType = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/dataType.js"(exports2) {
+  "node_modules/ajv/dist/compile/validate/dataType.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.reportTypeError = exports2.checkDataTypes = exports2.checkDataType = exports2.coerceAndCheckDataType = exports2.getJSONTypes = exports2.getSchemaTypes = exports2.DataType = void 0;
@@ -28246,9 +28246,9 @@ var require_dataType = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/defaults.js
+// node_modules/ajv/dist/compile/validate/defaults.js
 var require_defaults = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/defaults.js"(exports2) {
+  "node_modules/ajv/dist/compile/validate/defaults.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.assignDefaults = void 0;
@@ -28283,9 +28283,9 @@ var require_defaults = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/code.js
+// node_modules/ajv/dist/vocabularies/code.js
 var require_code2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/code.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/code.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.validateUnion = exports2.validateArray = exports2.usePattern = exports2.callValidateCode = exports2.schemaProperties = exports2.allSchemaProperties = exports2.noPropertyInData = exports2.propertyInData = exports2.isOwnProperty = exports2.hasPropFunc = exports2.reportMissingProp = exports2.checkMissingProp = exports2.checkReportMissingProp = void 0;
@@ -28416,9 +28416,9 @@ var require_code2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/keyword.js
+// node_modules/ajv/dist/compile/validate/keyword.js
 var require_keyword = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/keyword.js"(exports2) {
+  "node_modules/ajv/dist/compile/validate/keyword.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.validateKeywordUsage = exports2.validSchemaType = exports2.funcKeywordCode = exports2.macroKeywordCode = void 0;
@@ -28534,9 +28534,9 @@ var require_keyword = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/subschema.js
+// node_modules/ajv/dist/compile/validate/subschema.js
 var require_subschema = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/subschema.js"(exports2) {
+  "node_modules/ajv/dist/compile/validate/subschema.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.extendSubschemaMode = exports2.extendSubschemaData = exports2.getSubschema = void 0;
@@ -28617,9 +28617,9 @@ var require_subschema = __commonJS({
   }
 });
 
-// ../../node_modules/fast-deep-equal/index.js
+// node_modules/fast-deep-equal/index.js
 var require_fast_deep_equal = __commonJS({
-  "../../node_modules/fast-deep-equal/index.js"(exports2, module2) {
+  "node_modules/fast-deep-equal/index.js"(exports2, module2) {
     "use strict";
     module2.exports = function equal(a, b) {
       if (a === b)
@@ -28662,9 +28662,9 @@ var require_fast_deep_equal = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/node_modules/json-schema-traverse/index.js
+// node_modules/json-schema-traverse/index.js
 var require_json_schema_traverse = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/node_modules/json-schema-traverse/index.js"(exports2, module2) {
+  "node_modules/json-schema-traverse/index.js"(exports2, module2) {
     "use strict";
     var traverse = module2.exports = function(schema, opts, cb) {
       if (typeof opts == "function") {
@@ -28750,9 +28750,9 @@ var require_json_schema_traverse = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/resolve.js
+// node_modules/ajv/dist/compile/resolve.js
 var require_resolve = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/resolve.js"(exports2) {
+  "node_modules/ajv/dist/compile/resolve.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getSchemaRefs = exports2.resolveUrl = exports2.normalizeId = exports2._getFullPath = exports2.getFullPath = exports2.inlineRef = void 0;
@@ -28906,9 +28906,9 @@ var require_resolve = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/index.js
+// node_modules/ajv/dist/compile/validate/index.js
 var require_validate = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/validate/index.js"(exports2) {
+  "node_modules/ajv/dist/compile/validate/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getData = exports2.KeywordCxt = exports2.validateFunctionCode = void 0;
@@ -29414,9 +29414,9 @@ var require_validate = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/runtime/validation_error.js
+// node_modules/ajv/dist/runtime/validation_error.js
 var require_validation_error = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/runtime/validation_error.js"(exports2) {
+  "node_modules/ajv/dist/runtime/validation_error.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var ValidationError = class extends Error {
@@ -29430,9 +29430,9 @@ var require_validation_error = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/ref_error.js
+// node_modules/ajv/dist/compile/ref_error.js
 var require_ref_error = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/ref_error.js"(exports2) {
+  "node_modules/ajv/dist/compile/ref_error.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var resolve_1 = require_resolve();
@@ -29447,9 +29447,9 @@ var require_ref_error = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/index.js
+// node_modules/ajv/dist/compile/index.js
 var require_compile = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/compile/index.js"(exports2) {
+  "node_modules/ajv/dist/compile/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.resolveSchema = exports2.getCompilingSchema = exports2.resolveRef = exports2.compileSchema = exports2.SchemaEnv = void 0;
@@ -29671,9 +29671,9 @@ var require_compile = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/refs/data.json
+// node_modules/ajv/dist/refs/data.json
 var require_data = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/refs/data.json"(exports2, module2) {
+  "node_modules/ajv/dist/refs/data.json"(exports2, module2) {
     module2.exports = {
       $id: "https://raw.githubusercontent.com/ajv-validator/ajv/master/lib/refs/data.json#",
       description: "Meta-schema for $data reference (JSON AnySchema extension proposal)",
@@ -29690,96 +29690,62 @@ var require_data = __commonJS({
   }
 });
 
-// ../../node_modules/fast-uri/lib/scopedChars.js
-var require_scopedChars = __commonJS({
-  "../../node_modules/fast-uri/lib/scopedChars.js"(exports2, module2) {
-    "use strict";
-    var HEX = {
-      0: 0,
-      1: 1,
-      2: 2,
-      3: 3,
-      4: 4,
-      5: 5,
-      6: 6,
-      7: 7,
-      8: 8,
-      9: 9,
-      a: 10,
-      A: 10,
-      b: 11,
-      B: 11,
-      c: 12,
-      C: 12,
-      d: 13,
-      D: 13,
-      e: 14,
-      E: 14,
-      f: 15,
-      F: 15
-    };
-    module2.exports = {
-      HEX
-    };
-  }
-});
-
-// ../../node_modules/fast-uri/lib/utils.js
+// node_modules/fast-uri/lib/utils.js
 var require_utils = __commonJS({
-  "../../node_modules/fast-uri/lib/utils.js"(exports2, module2) {
+  "node_modules/fast-uri/lib/utils.js"(exports2, module2) {
     "use strict";
-    var { HEX } = require_scopedChars();
-    var IPV4_REG = /^(?:(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]\d|\d)\.){3}(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]\d|\d)$/u;
-    function normalizeIPv4(host) {
-      if (findToken(host, ".") < 3) {
-        return { host, isIPV4: false };
-      }
-      const matches = host.match(IPV4_REG) || [];
-      const [address] = matches;
-      if (address) {
-        return { host: stripLeadingZeros(address, "."), isIPV4: true };
-      } else {
-        return { host, isIPV4: false };
-      }
-    }
-    function stringArrayToHexStripped(input, keepZero = false) {
+    var isUUID = RegExp.prototype.test.bind(/^[\da-f]{8}-[\da-f]{4}-[\da-f]{4}-[\da-f]{4}-[\da-f]{12}$/iu);
+    var isIPv4 = RegExp.prototype.test.bind(/^(?:(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]\d|\d)\.){3}(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]\d|\d)$/u);
+    function stringArrayToHexStripped(input) {
       let acc = "";
-      let strip = true;
-      for (const c of input) {
-        if (HEX[c] === void 0)
-          return void 0;
-        if (c !== "0" && strip === true)
-          strip = false;
-        if (!strip)
-          acc += c;
+      let code = 0;
+      let i = 0;
+      for (i = 0; i < input.length; i++) {
+        code = input[i].charCodeAt(0);
+        if (code === 48) {
+          continue;
+        }
+        if (!(code >= 48 && code <= 57 || code >= 65 && code <= 70 || code >= 97 && code <= 102)) {
+          return "";
+        }
+        acc += input[i];
+        break;
       }
-      if (keepZero && acc.length === 0)
-        acc = "0";
+      for (i += 1; i < input.length; i++) {
+        code = input[i].charCodeAt(0);
+        if (!(code >= 48 && code <= 57 || code >= 65 && code <= 70 || code >= 97 && code <= 102)) {
+          return "";
+        }
+        acc += input[i];
+      }
       return acc;
+    }
+    var nonSimpleDomain = RegExp.prototype.test.bind(/[^!"$&'()*+,\-.;=_`a-z{}~]/u);
+    function consumeIsZone(buffer) {
+      buffer.length = 0;
+      return true;
+    }
+    function consumeHextets(buffer, address, output) {
+      if (buffer.length) {
+        const hex = stringArrayToHexStripped(buffer);
+        if (hex !== "") {
+          address.push(hex);
+        } else {
+          output.error = true;
+          return false;
+        }
+        buffer.length = 0;
+      }
+      return true;
     }
     function getIPV6(input) {
       let tokenCount = 0;
       const output = { error: false, address: "", zone: "" };
       const address = [];
       const buffer = [];
-      let isZone = false;
       let endipv6Encountered = false;
       let endIpv6 = false;
-      function consume() {
-        if (buffer.length) {
-          if (isZone === false) {
-            const hex = stringArrayToHexStripped(buffer);
-            if (hex !== void 0) {
-              address.push(hex);
-            } else {
-              output.error = true;
-              return false;
-            }
-          }
-          buffer.length = 0;
-        }
-        return true;
-      }
+      let consume = consumeHextets;
       for (let i = 0; i < input.length; i++) {
         const cursor = input[i];
         if (cursor === "[" || cursor === "]") {
@@ -29789,31 +29755,30 @@ var require_utils = __commonJS({
           if (endipv6Encountered === true) {
             endIpv6 = true;
           }
-          if (!consume()) {
+          if (!consume(buffer, address, output)) {
             break;
           }
-          tokenCount++;
-          address.push(":");
-          if (tokenCount > 7) {
+          if (++tokenCount > 7) {
             output.error = true;
             break;
           }
-          if (i - 1 >= 0 && input[i - 1] === ":") {
+          if (i > 0 && input[i - 1] === ":") {
             endipv6Encountered = true;
           }
+          address.push(":");
           continue;
         } else if (cursor === "%") {
-          if (!consume()) {
+          if (!consume(buffer, address, output)) {
             break;
           }
-          isZone = true;
+          consume = consumeIsZone;
         } else {
           buffer.push(cursor);
           continue;
         }
       }
       if (buffer.length) {
-        if (isZone) {
+        if (consume === consumeIsZone) {
           output.zone = buffer.join("");
         } else if (endIpv6) {
           address.push(buffer.join(""));
@@ -29836,32 +29801,10 @@ var require_utils = __commonJS({
           newHost += "%" + ipv6.zone;
           escapedHost += "%25" + ipv6.zone;
         }
-        return { host: newHost, escapedHost, isIPV6: true };
+        return { host: newHost, isIPV6: true, escapedHost };
       } else {
         return { host, isIPV6: false };
       }
-    }
-    function stripLeadingZeros(str, token) {
-      let out = "";
-      let skip = true;
-      const l = str.length;
-      for (let i = 0; i < l; i++) {
-        const c = str[i];
-        if (c === "0" && skip) {
-          if (i + 1 <= l && str[i + 1] === token || i + 1 === l) {
-            out += c;
-            skip = false;
-          }
-        } else {
-          if (c === token) {
-            skip = true;
-          } else {
-            skip = false;
-          }
-          out += c;
-        }
-      }
-      return out;
     }
     function findToken(str, token) {
       let ind = 0;
@@ -29871,261 +29814,373 @@ var require_utils = __commonJS({
       }
       return ind;
     }
-    var RDS1 = /^\.\.?\//u;
-    var RDS2 = /^\/\.(?:\/|$)/u;
-    var RDS3 = /^\/\.\.(?:\/|$)/u;
-    var RDS5 = /^\/?(?:.|\n)*?(?=\/|$)/u;
-    function removeDotSegments(input) {
+    function removeDotSegments(path) {
+      let input = path;
       const output = [];
-      while (input.length) {
-        if (input.match(RDS1)) {
-          input = input.replace(RDS1, "");
-        } else if (input.match(RDS2)) {
-          input = input.replace(RDS2, "/");
-        } else if (input.match(RDS3)) {
-          input = input.replace(RDS3, "/");
-          output.pop();
-        } else if (input === "." || input === "..") {
-          input = "";
-        } else {
-          const im = input.match(RDS5);
-          if (im) {
-            const s = im[0];
-            input = input.slice(s.length);
-            output.push(s);
+      let nextSlash = -1;
+      let len = 0;
+      while (len = input.length) {
+        if (len === 1) {
+          if (input === ".") {
+            break;
+          } else if (input === "/") {
+            output.push("/");
+            break;
           } else {
-            throw new Error("Unexpected dot segment condition");
+            output.push(input);
+            break;
           }
+        } else if (len === 2) {
+          if (input[0] === ".") {
+            if (input[1] === ".") {
+              break;
+            } else if (input[1] === "/") {
+              input = input.slice(2);
+              continue;
+            }
+          } else if (input[0] === "/") {
+            if (input[1] === "." || input[1] === "/") {
+              output.push("/");
+              break;
+            }
+          }
+        } else if (len === 3) {
+          if (input === "/..") {
+            if (output.length !== 0) {
+              output.pop();
+            }
+            output.push("/");
+            break;
+          }
+        }
+        if (input[0] === ".") {
+          if (input[1] === ".") {
+            if (input[2] === "/") {
+              input = input.slice(3);
+              continue;
+            }
+          } else if (input[1] === "/") {
+            input = input.slice(2);
+            continue;
+          }
+        } else if (input[0] === "/") {
+          if (input[1] === ".") {
+            if (input[2] === "/") {
+              input = input.slice(2);
+              continue;
+            } else if (input[2] === ".") {
+              if (input[3] === "/") {
+                input = input.slice(3);
+                if (output.length !== 0) {
+                  output.pop();
+                }
+                continue;
+              }
+            }
+          }
+        }
+        if ((nextSlash = input.indexOf("/", 1)) === -1) {
+          output.push(input);
+          break;
+        } else {
+          output.push(input.slice(0, nextSlash));
+          input = input.slice(nextSlash);
         }
       }
       return output.join("");
     }
-    function normalizeComponentEncoding(components, esc) {
+    function normalizeComponentEncoding(component, esc) {
       const func = esc !== true ? escape : unescape;
-      if (components.scheme !== void 0) {
-        components.scheme = func(components.scheme);
+      if (component.scheme !== void 0) {
+        component.scheme = func(component.scheme);
       }
-      if (components.userinfo !== void 0) {
-        components.userinfo = func(components.userinfo);
+      if (component.userinfo !== void 0) {
+        component.userinfo = func(component.userinfo);
       }
-      if (components.host !== void 0) {
-        components.host = func(components.host);
+      if (component.host !== void 0) {
+        component.host = func(component.host);
       }
-      if (components.path !== void 0) {
-        components.path = func(components.path);
+      if (component.path !== void 0) {
+        component.path = func(component.path);
       }
-      if (components.query !== void 0) {
-        components.query = func(components.query);
+      if (component.query !== void 0) {
+        component.query = func(component.query);
       }
-      if (components.fragment !== void 0) {
-        components.fragment = func(components.fragment);
+      if (component.fragment !== void 0) {
+        component.fragment = func(component.fragment);
       }
-      return components;
+      return component;
     }
-    function recomposeAuthority(components) {
+    function recomposeAuthority(component) {
       const uriTokens = [];
-      if (components.userinfo !== void 0) {
-        uriTokens.push(components.userinfo);
+      if (component.userinfo !== void 0) {
+        uriTokens.push(component.userinfo);
         uriTokens.push("@");
       }
-      if (components.host !== void 0) {
-        let host = unescape(components.host);
-        const ipV4res = normalizeIPv4(host);
-        if (ipV4res.isIPV4) {
-          host = ipV4res.host;
-        } else {
-          const ipV6res = normalizeIPv6(ipV4res.host);
+      if (component.host !== void 0) {
+        let host = unescape(component.host);
+        if (!isIPv4(host)) {
+          const ipV6res = normalizeIPv6(host);
           if (ipV6res.isIPV6 === true) {
             host = `[${ipV6res.escapedHost}]`;
           } else {
-            host = components.host;
+            host = component.host;
           }
         }
         uriTokens.push(host);
       }
-      if (typeof components.port === "number" || typeof components.port === "string") {
+      if (typeof component.port === "number" || typeof component.port === "string") {
         uriTokens.push(":");
-        uriTokens.push(String(components.port));
+        uriTokens.push(String(component.port));
       }
       return uriTokens.length ? uriTokens.join("") : void 0;
     }
     module2.exports = {
+      nonSimpleDomain,
       recomposeAuthority,
       normalizeComponentEncoding,
       removeDotSegments,
-      normalizeIPv4,
+      isIPv4,
+      isUUID,
       normalizeIPv6,
       stringArrayToHexStripped
     };
   }
 });
 
-// ../../node_modules/fast-uri/lib/schemes.js
+// node_modules/fast-uri/lib/schemes.js
 var require_schemes = __commonJS({
-  "../../node_modules/fast-uri/lib/schemes.js"(exports2, module2) {
+  "node_modules/fast-uri/lib/schemes.js"(exports2, module2) {
     "use strict";
-    var UUID_REG = /^[\da-f]{8}-[\da-f]{4}-[\da-f]{4}-[\da-f]{4}-[\da-f]{12}$/iu;
+    var { isUUID } = require_utils();
     var URN_REG = /([\da-z][\d\-a-z]{0,31}):((?:[\w!$'()*+,\-.:;=@]|%[\da-f]{2})+)/iu;
-    function isSecure(wsComponents) {
-      return typeof wsComponents.secure === "boolean" ? wsComponents.secure : String(wsComponents.scheme).toLowerCase() === "wss";
+    var supportedSchemeNames = (
+      /** @type {const} */
+      [
+        "http",
+        "https",
+        "ws",
+        "wss",
+        "urn",
+        "urn:uuid"
+      ]
+    );
+    function isValidSchemeName(name) {
+      return supportedSchemeNames.indexOf(
+        /** @type {*} */
+        name
+      ) !== -1;
     }
-    function httpParse(components) {
-      if (!components.host) {
-        components.error = components.error || "HTTP URIs must have a host.";
+    function wsIsSecure(wsComponent) {
+      if (wsComponent.secure === true) {
+        return true;
+      } else if (wsComponent.secure === false) {
+        return false;
+      } else if (wsComponent.scheme) {
+        return wsComponent.scheme.length === 3 && (wsComponent.scheme[0] === "w" || wsComponent.scheme[0] === "W") && (wsComponent.scheme[1] === "s" || wsComponent.scheme[1] === "S") && (wsComponent.scheme[2] === "s" || wsComponent.scheme[2] === "S");
+      } else {
+        return false;
       }
-      return components;
     }
-    function httpSerialize(components) {
-      const secure = String(components.scheme).toLowerCase() === "https";
-      if (components.port === (secure ? 443 : 80) || components.port === "") {
-        components.port = void 0;
+    function httpParse(component) {
+      if (!component.host) {
+        component.error = component.error || "HTTP URIs must have a host.";
       }
-      if (!components.path) {
-        components.path = "/";
-      }
-      return components;
+      return component;
     }
-    function wsParse(wsComponents) {
-      wsComponents.secure = isSecure(wsComponents);
-      wsComponents.resourceName = (wsComponents.path || "/") + (wsComponents.query ? "?" + wsComponents.query : "");
-      wsComponents.path = void 0;
-      wsComponents.query = void 0;
-      return wsComponents;
+    function httpSerialize(component) {
+      const secure = String(component.scheme).toLowerCase() === "https";
+      if (component.port === (secure ? 443 : 80) || component.port === "") {
+        component.port = void 0;
+      }
+      if (!component.path) {
+        component.path = "/";
+      }
+      return component;
     }
-    function wsSerialize(wsComponents) {
-      if (wsComponents.port === (isSecure(wsComponents) ? 443 : 80) || wsComponents.port === "") {
-        wsComponents.port = void 0;
-      }
-      if (typeof wsComponents.secure === "boolean") {
-        wsComponents.scheme = wsComponents.secure ? "wss" : "ws";
-        wsComponents.secure = void 0;
-      }
-      if (wsComponents.resourceName) {
-        const [path, query] = wsComponents.resourceName.split("?");
-        wsComponents.path = path && path !== "/" ? path : void 0;
-        wsComponents.query = query;
-        wsComponents.resourceName = void 0;
-      }
-      wsComponents.fragment = void 0;
-      return wsComponents;
+    function wsParse(wsComponent) {
+      wsComponent.secure = wsIsSecure(wsComponent);
+      wsComponent.resourceName = (wsComponent.path || "/") + (wsComponent.query ? "?" + wsComponent.query : "");
+      wsComponent.path = void 0;
+      wsComponent.query = void 0;
+      return wsComponent;
     }
-    function urnParse(urnComponents, options) {
-      if (!urnComponents.path) {
-        urnComponents.error = "URN can not be parsed";
-        return urnComponents;
+    function wsSerialize(wsComponent) {
+      if (wsComponent.port === (wsIsSecure(wsComponent) ? 443 : 80) || wsComponent.port === "") {
+        wsComponent.port = void 0;
       }
-      const matches = urnComponents.path.match(URN_REG);
+      if (typeof wsComponent.secure === "boolean") {
+        wsComponent.scheme = wsComponent.secure ? "wss" : "ws";
+        wsComponent.secure = void 0;
+      }
+      if (wsComponent.resourceName) {
+        const [path, query] = wsComponent.resourceName.split("?");
+        wsComponent.path = path && path !== "/" ? path : void 0;
+        wsComponent.query = query;
+        wsComponent.resourceName = void 0;
+      }
+      wsComponent.fragment = void 0;
+      return wsComponent;
+    }
+    function urnParse(urnComponent, options) {
+      if (!urnComponent.path) {
+        urnComponent.error = "URN can not be parsed";
+        return urnComponent;
+      }
+      const matches = urnComponent.path.match(URN_REG);
       if (matches) {
-        const scheme = options.scheme || urnComponents.scheme || "urn";
-        urnComponents.nid = matches[1].toLowerCase();
-        urnComponents.nss = matches[2];
-        const urnScheme = `${scheme}:${options.nid || urnComponents.nid}`;
-        const schemeHandler = SCHEMES[urnScheme];
-        urnComponents.path = void 0;
+        const scheme = options.scheme || urnComponent.scheme || "urn";
+        urnComponent.nid = matches[1].toLowerCase();
+        urnComponent.nss = matches[2];
+        const urnScheme = `${scheme}:${options.nid || urnComponent.nid}`;
+        const schemeHandler = getSchemeHandler(urnScheme);
+        urnComponent.path = void 0;
         if (schemeHandler) {
-          urnComponents = schemeHandler.parse(urnComponents, options);
+          urnComponent = schemeHandler.parse(urnComponent, options);
         }
       } else {
-        urnComponents.error = urnComponents.error || "URN can not be parsed.";
+        urnComponent.error = urnComponent.error || "URN can not be parsed.";
       }
-      return urnComponents;
+      return urnComponent;
     }
-    function urnSerialize(urnComponents, options) {
-      const scheme = options.scheme || urnComponents.scheme || "urn";
-      const nid = urnComponents.nid.toLowerCase();
+    function urnSerialize(urnComponent, options) {
+      if (urnComponent.nid === void 0) {
+        throw new Error("URN without nid cannot be serialized");
+      }
+      const scheme = options.scheme || urnComponent.scheme || "urn";
+      const nid = urnComponent.nid.toLowerCase();
       const urnScheme = `${scheme}:${options.nid || nid}`;
-      const schemeHandler = SCHEMES[urnScheme];
+      const schemeHandler = getSchemeHandler(urnScheme);
       if (schemeHandler) {
-        urnComponents = schemeHandler.serialize(urnComponents, options);
+        urnComponent = schemeHandler.serialize(urnComponent, options);
       }
-      const uriComponents = urnComponents;
-      const nss = urnComponents.nss;
-      uriComponents.path = `${nid || options.nid}:${nss}`;
+      const uriComponent = urnComponent;
+      const nss = urnComponent.nss;
+      uriComponent.path = `${nid || options.nid}:${nss}`;
       options.skipEscape = true;
-      return uriComponents;
+      return uriComponent;
     }
-    function urnuuidParse(urnComponents, options) {
-      const uuidComponents = urnComponents;
-      uuidComponents.uuid = uuidComponents.nss;
-      uuidComponents.nss = void 0;
-      if (!options.tolerant && (!uuidComponents.uuid || !UUID_REG.test(uuidComponents.uuid))) {
-        uuidComponents.error = uuidComponents.error || "UUID is not valid.";
+    function urnuuidParse(urnComponent, options) {
+      const uuidComponent = urnComponent;
+      uuidComponent.uuid = uuidComponent.nss;
+      uuidComponent.nss = void 0;
+      if (!options.tolerant && (!uuidComponent.uuid || !isUUID(uuidComponent.uuid))) {
+        uuidComponent.error = uuidComponent.error || "UUID is not valid.";
       }
-      return uuidComponents;
+      return uuidComponent;
     }
-    function urnuuidSerialize(uuidComponents) {
-      const urnComponents = uuidComponents;
-      urnComponents.nss = (uuidComponents.uuid || "").toLowerCase();
-      return urnComponents;
+    function urnuuidSerialize(uuidComponent) {
+      const urnComponent = uuidComponent;
+      urnComponent.nss = (uuidComponent.uuid || "").toLowerCase();
+      return urnComponent;
     }
-    var http = {
-      scheme: "http",
-      domainHost: true,
-      parse: httpParse,
-      serialize: httpSerialize
+    var http = (
+      /** @type {SchemeHandler} */
+      {
+        scheme: "http",
+        domainHost: true,
+        parse: httpParse,
+        serialize: httpSerialize
+      }
+    );
+    var https = (
+      /** @type {SchemeHandler} */
+      {
+        scheme: "https",
+        domainHost: http.domainHost,
+        parse: httpParse,
+        serialize: httpSerialize
+      }
+    );
+    var ws = (
+      /** @type {SchemeHandler} */
+      {
+        scheme: "ws",
+        domainHost: true,
+        parse: wsParse,
+        serialize: wsSerialize
+      }
+    );
+    var wss = (
+      /** @type {SchemeHandler} */
+      {
+        scheme: "wss",
+        domainHost: ws.domainHost,
+        parse: ws.parse,
+        serialize: ws.serialize
+      }
+    );
+    var urn = (
+      /** @type {SchemeHandler} */
+      {
+        scheme: "urn",
+        parse: urnParse,
+        serialize: urnSerialize,
+        skipNormalize: true
+      }
+    );
+    var urnuuid = (
+      /** @type {SchemeHandler} */
+      {
+        scheme: "urn:uuid",
+        parse: urnuuidParse,
+        serialize: urnuuidSerialize,
+        skipNormalize: true
+      }
+    );
+    var SCHEMES = (
+      /** @type {Record<SchemeName, SchemeHandler>} */
+      {
+        http,
+        https,
+        ws,
+        wss,
+        urn,
+        "urn:uuid": urnuuid
+      }
+    );
+    Object.setPrototypeOf(SCHEMES, null);
+    function getSchemeHandler(scheme) {
+      return scheme && (SCHEMES[
+        /** @type {SchemeName} */
+        scheme
+      ] || SCHEMES[
+        /** @type {SchemeName} */
+        scheme.toLowerCase()
+      ]) || void 0;
+    }
+    module2.exports = {
+      wsIsSecure,
+      SCHEMES,
+      isValidSchemeName,
+      getSchemeHandler
     };
-    var https = {
-      scheme: "https",
-      domainHost: http.domainHost,
-      parse: httpParse,
-      serialize: httpSerialize
-    };
-    var ws = {
-      scheme: "ws",
-      domainHost: true,
-      parse: wsParse,
-      serialize: wsSerialize
-    };
-    var wss = {
-      scheme: "wss",
-      domainHost: ws.domainHost,
-      parse: ws.parse,
-      serialize: ws.serialize
-    };
-    var urn = {
-      scheme: "urn",
-      parse: urnParse,
-      serialize: urnSerialize,
-      skipNormalize: true
-    };
-    var urnuuid = {
-      scheme: "urn:uuid",
-      parse: urnuuidParse,
-      serialize: urnuuidSerialize,
-      skipNormalize: true
-    };
-    var SCHEMES = {
-      http,
-      https,
-      ws,
-      wss,
-      urn,
-      "urn:uuid": urnuuid
-    };
-    module2.exports = SCHEMES;
   }
 });
 
-// ../../node_modules/fast-uri/index.js
+// node_modules/fast-uri/index.js
 var require_fast_uri = __commonJS({
-  "../../node_modules/fast-uri/index.js"(exports2, module2) {
+  "node_modules/fast-uri/index.js"(exports2, module2) {
     "use strict";
-    var { normalizeIPv6, normalizeIPv4, removeDotSegments, recomposeAuthority, normalizeComponentEncoding } = require_utils();
-    var SCHEMES = require_schemes();
+    var { normalizeIPv6, removeDotSegments, recomposeAuthority, normalizeComponentEncoding, isIPv4, nonSimpleDomain } = require_utils();
+    var { SCHEMES, getSchemeHandler } = require_schemes();
     function normalize(uri, options) {
       if (typeof uri === "string") {
-        uri = serialize(parse(uri, options), options);
+        uri = /** @type {T} */
+        serialize(parse(uri, options), options);
       } else if (typeof uri === "object") {
-        uri = parse(serialize(uri, options), options);
+        uri = /** @type {T} */
+        parse(serialize(uri, options), options);
       }
       return uri;
     }
     function resolve(baseURI, relativeURI, options) {
-      const schemelessOptions = Object.assign({ scheme: "null" }, options);
-      const resolved = resolveComponents(parse(baseURI, schemelessOptions), parse(relativeURI, schemelessOptions), schemelessOptions, true);
-      return serialize(resolved, { ...schemelessOptions, skipEscape: true });
+      const schemelessOptions = options ? Object.assign({ scheme: "null" }, options) : { scheme: "null" };
+      const resolved = resolveComponent(parse(baseURI, schemelessOptions), parse(relativeURI, schemelessOptions), schemelessOptions, true);
+      schemelessOptions.skipEscape = true;
+      return serialize(resolved, schemelessOptions);
     }
-    function resolveComponents(base, relative, options, skipNormalization) {
+    function resolveComponent(base, relative, options, skipNormalization) {
       const target = {};
       if (!skipNormalization) {
         base = parse(serialize(base, options), options);
@@ -30155,7 +30210,7 @@ var require_fast_uri = __commonJS({
               target.query = base.query;
             }
           } else {
-            if (relative.path.charAt(0) === "/") {
+            if (relative.path[0] === "/") {
               target.path = removeDotSegments(relative.path);
             } else {
               if ((base.userinfo !== void 0 || base.host !== void 0 || base.port !== void 0) && !base.path) {
@@ -30194,7 +30249,7 @@ var require_fast_uri = __commonJS({
       return uriA.toLowerCase() === uriB.toLowerCase();
     }
     function serialize(cmpts, opts) {
-      const components = {
+      const component = {
         host: cmpts.host,
         scheme: cmpts.scheme,
         userinfo: cmpts.userinfo,
@@ -30212,60 +30267,49 @@ var require_fast_uri = __commonJS({
       };
       const options = Object.assign({}, opts);
       const uriTokens = [];
-      const schemeHandler = SCHEMES[(options.scheme || components.scheme || "").toLowerCase()];
+      const schemeHandler = getSchemeHandler(options.scheme || component.scheme);
       if (schemeHandler && schemeHandler.serialize)
-        schemeHandler.serialize(components, options);
-      if (components.path !== void 0) {
+        schemeHandler.serialize(component, options);
+      if (component.path !== void 0) {
         if (!options.skipEscape) {
-          components.path = escape(components.path);
-          if (components.scheme !== void 0) {
-            components.path = components.path.split("%3A").join(":");
+          component.path = escape(component.path);
+          if (component.scheme !== void 0) {
+            component.path = component.path.split("%3A").join(":");
           }
         } else {
-          components.path = unescape(components.path);
+          component.path = unescape(component.path);
         }
       }
-      if (options.reference !== "suffix" && components.scheme) {
-        uriTokens.push(components.scheme, ":");
+      if (options.reference !== "suffix" && component.scheme) {
+        uriTokens.push(component.scheme, ":");
       }
-      const authority = recomposeAuthority(components);
+      const authority = recomposeAuthority(component);
       if (authority !== void 0) {
         if (options.reference !== "suffix") {
           uriTokens.push("//");
         }
         uriTokens.push(authority);
-        if (components.path && components.path.charAt(0) !== "/") {
+        if (component.path && component.path[0] !== "/") {
           uriTokens.push("/");
         }
       }
-      if (components.path !== void 0) {
-        let s = components.path;
+      if (component.path !== void 0) {
+        let s = component.path;
         if (!options.absolutePath && (!schemeHandler || !schemeHandler.absolutePath)) {
           s = removeDotSegments(s);
         }
-        if (authority === void 0) {
-          s = s.replace(/^\/\//u, "/%2F");
+        if (authority === void 0 && s[0] === "/" && s[1] === "/") {
+          s = "/%2F" + s.slice(2);
         }
         uriTokens.push(s);
       }
-      if (components.query !== void 0) {
-        uriTokens.push("?", components.query);
+      if (component.query !== void 0) {
+        uriTokens.push("?", component.query);
       }
-      if (components.fragment !== void 0) {
-        uriTokens.push("#", components.fragment);
+      if (component.fragment !== void 0) {
+        uriTokens.push("#", component.fragment);
       }
       return uriTokens.join("");
-    }
-    var hexLookUp = Array.from({ length: 127 }, (_v, k) => /[^!"$&'()*+,\-.;=_`a-z{}~]/u.test(String.fromCharCode(k)));
-    function nonSimpleDomain(value) {
-      let code = 0;
-      for (let i = 0, len = value.length; i < len; ++i) {
-        code = value.charCodeAt(i);
-        if (code > 126 || hexLookUp[code]) {
-          return true;
-        }
-      }
-      return false;
     }
     var URI_PARSE = /^(?:([^#/:?]+):)?(?:\/\/((?:([^#/?@]*)@)?(\[[^#/?\]]+\]|[^#/:?]*)(?::(\d*))?))?([^#?]*)(?:\?([^#]*))?(?:#((?:.|[\n\r])*))?/u;
     function parse(uri, opts) {
@@ -30279,10 +30323,14 @@ var require_fast_uri = __commonJS({
         query: void 0,
         fragment: void 0
       };
-      const gotEncoding = uri.indexOf("%") !== -1;
       let isIP = false;
-      if (options.reference === "suffix")
-        uri = (options.scheme ? options.scheme + ":" : "") + "//" + uri;
+      if (options.reference === "suffix") {
+        if (options.scheme) {
+          uri = options.scheme + ":" + uri;
+        } else {
+          uri = "//" + uri;
+        }
+      }
       const matches = uri.match(URI_PARSE);
       if (matches) {
         parsed.scheme = matches[1];
@@ -30296,13 +30344,12 @@ var require_fast_uri = __commonJS({
           parsed.port = matches[5];
         }
         if (parsed.host) {
-          const ipv4result = normalizeIPv4(parsed.host);
-          if (ipv4result.isIPV4 === false) {
-            const ipv6result = normalizeIPv6(ipv4result.host);
+          const ipv4result = isIPv4(parsed.host);
+          if (ipv4result === false) {
+            const ipv6result = normalizeIPv6(parsed.host);
             parsed.host = ipv6result.host.toLowerCase();
             isIP = ipv6result.isIPV6;
           } else {
-            parsed.host = ipv4result.host;
             isIP = true;
           }
         }
@@ -30318,7 +30365,7 @@ var require_fast_uri = __commonJS({
         if (options.reference && options.reference !== "suffix" && options.reference !== parsed.reference) {
           parsed.error = parsed.error || "URI is not a " + options.reference + " reference.";
         }
-        const schemeHandler = SCHEMES[(options.scheme || parsed.scheme || "").toLowerCase()];
+        const schemeHandler = getSchemeHandler(options.scheme || parsed.scheme);
         if (!options.unicodeSupport && (!schemeHandler || !schemeHandler.unicodeSupport)) {
           if (parsed.host && (options.domainHost || schemeHandler && schemeHandler.domainHost) && isIP === false && nonSimpleDomain(parsed.host)) {
             try {
@@ -30329,11 +30376,13 @@ var require_fast_uri = __commonJS({
           }
         }
         if (!schemeHandler || schemeHandler && !schemeHandler.skipNormalize) {
-          if (gotEncoding && parsed.scheme !== void 0) {
-            parsed.scheme = unescape(parsed.scheme);
-          }
-          if (gotEncoding && parsed.host !== void 0) {
-            parsed.host = unescape(parsed.host);
+          if (uri.indexOf("%") !== -1) {
+            if (parsed.scheme !== void 0) {
+              parsed.scheme = unescape(parsed.scheme);
+            }
+            if (parsed.host !== void 0) {
+              parsed.host = unescape(parsed.host);
+            }
           }
           if (parsed.path) {
             parsed.path = escape(unescape(parsed.path));
@@ -30354,7 +30403,7 @@ var require_fast_uri = __commonJS({
       SCHEMES,
       normalize,
       resolve,
-      resolveComponents,
+      resolveComponent,
       equal,
       serialize,
       parse
@@ -30365,9 +30414,9 @@ var require_fast_uri = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/runtime/uri.js
+// node_modules/ajv/dist/runtime/uri.js
 var require_uri = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/runtime/uri.js"(exports2) {
+  "node_modules/ajv/dist/runtime/uri.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var uri = require_fast_uri();
@@ -30376,9 +30425,9 @@ var require_uri = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/core.js
+// node_modules/ajv/dist/core.js
 var require_core3 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/core.js"(exports2) {
+  "node_modules/ajv/dist/core.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.CodeGen = exports2.Name = exports2.nil = exports2.stringify = exports2.str = exports2._ = exports2.KeywordCxt = void 0;
@@ -30987,9 +31036,9 @@ var require_core3 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/core/id.js
+// node_modules/ajv/dist/vocabularies/core/id.js
 var require_id2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/core/id.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/core/id.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var def = {
@@ -31002,9 +31051,9 @@ var require_id2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/core/ref.js
+// node_modules/ajv/dist/vocabularies/core/ref.js
 var require_ref = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/core/ref.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/core/ref.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.callRef = exports2.getValidate = void 0;
@@ -31124,9 +31173,9 @@ var require_ref = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/core/index.js
+// node_modules/ajv/dist/vocabularies/core/index.js
 var require_core4 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/core/index.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/core/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var id_1 = require_id2();
@@ -31145,9 +31194,9 @@ var require_core4 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/limitNumber.js
+// node_modules/ajv/dist/vocabularies/validation/limitNumber.js
 var require_limitNumber = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/limitNumber.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/limitNumber.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -31177,9 +31226,9 @@ var require_limitNumber = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/multipleOf.js
+// node_modules/ajv/dist/vocabularies/validation/multipleOf.js
 var require_multipleOf = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/multipleOf.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/multipleOf.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -31205,9 +31254,9 @@ var require_multipleOf = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/runtime/ucs2length.js
+// node_modules/ajv/dist/runtime/ucs2length.js
 var require_ucs2length = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/runtime/ucs2length.js"(exports2) {
+  "node_modules/ajv/dist/runtime/ucs2length.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     function ucs2length(str) {
@@ -31231,9 +31280,9 @@ var require_ucs2length = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/limitLength.js
+// node_modules/ajv/dist/vocabularies/validation/limitLength.js
 var require_limitLength = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/limitLength.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/limitLength.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -31263,9 +31312,9 @@ var require_limitLength = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/pattern.js
+// node_modules/ajv/dist/vocabularies/validation/pattern.js
 var require_pattern = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/pattern.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/pattern.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var code_1 = require_code2();
@@ -31300,9 +31349,9 @@ var require_pattern = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/limitProperties.js
+// node_modules/ajv/dist/vocabularies/validation/limitProperties.js
 var require_limitProperties = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/limitProperties.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/limitProperties.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -31329,9 +31378,9 @@ var require_limitProperties = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/required.js
+// node_modules/ajv/dist/vocabularies/validation/required.js
 var require_required = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/required.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/required.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var code_1 = require_code2();
@@ -31411,9 +31460,9 @@ var require_required = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/limitItems.js
+// node_modules/ajv/dist/vocabularies/validation/limitItems.js
 var require_limitItems = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/limitItems.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/limitItems.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -31440,9 +31489,9 @@ var require_limitItems = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/runtime/equal.js
+// node_modules/ajv/dist/runtime/equal.js
 var require_equal = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/runtime/equal.js"(exports2) {
+  "node_modules/ajv/dist/runtime/equal.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var equal = require_fast_deep_equal();
@@ -31451,9 +31500,9 @@ var require_equal = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/uniqueItems.js
+// node_modules/ajv/dist/vocabularies/validation/uniqueItems.js
 var require_uniqueItems = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/uniqueItems.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/uniqueItems.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var dataType_1 = require_dataType();
@@ -31518,9 +31567,9 @@ var require_uniqueItems = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/const.js
+// node_modules/ajv/dist/vocabularies/validation/const.js
 var require_const = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/const.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/const.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -31547,9 +31596,9 @@ var require_const = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/enum.js
+// node_modules/ajv/dist/vocabularies/validation/enum.js
 var require_enum2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/enum.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/enum.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -31596,9 +31645,9 @@ var require_enum2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/index.js
+// node_modules/ajv/dist/vocabularies/validation/index.js
 var require_validation = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/validation/index.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/validation/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var limitNumber_1 = require_limitNumber();
@@ -31634,9 +31683,9 @@ var require_validation = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/additionalItems.js
+// node_modules/ajv/dist/vocabularies/applicator/additionalItems.js
 var require_additionalItems = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/additionalItems.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/additionalItems.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.validateAdditionalItems = void 0;
@@ -31687,9 +31736,9 @@ var require_additionalItems = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/items.js
+// node_modules/ajv/dist/vocabularies/applicator/items.js
 var require_items = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/items.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/items.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.validateTuple = void 0;
@@ -31744,9 +31793,9 @@ var require_items = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/prefixItems.js
+// node_modules/ajv/dist/vocabularies/applicator/prefixItems.js
 var require_prefixItems = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/prefixItems.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/prefixItems.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var items_1 = require_items();
@@ -31761,9 +31810,9 @@ var require_prefixItems = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/items2020.js
+// node_modules/ajv/dist/vocabularies/applicator/items2020.js
 var require_items2020 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/items2020.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/items2020.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -31796,9 +31845,9 @@ var require_items2020 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/contains.js
+// node_modules/ajv/dist/vocabularies/applicator/contains.js
 var require_contains = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/contains.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/contains.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -31890,9 +31939,9 @@ var require_contains = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/dependencies.js
+// node_modules/ajv/dist/vocabularies/applicator/dependencies.js
 var require_dependencies = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/dependencies.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/dependencies.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.validateSchemaDeps = exports2.validatePropertyDeps = exports2.error = void 0;
@@ -31984,9 +32033,9 @@ var require_dependencies = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/propertyNames.js
+// node_modules/ajv/dist/vocabularies/applicator/propertyNames.js
 var require_propertyNames = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/propertyNames.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/propertyNames.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -32027,9 +32076,9 @@ var require_propertyNames = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/additionalProperties.js
+// node_modules/ajv/dist/vocabularies/applicator/additionalProperties.js
 var require_additionalProperties = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/additionalProperties.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/additionalProperties.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var code_1 = require_code2();
@@ -32133,9 +32182,9 @@ var require_additionalProperties = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/properties.js
+// node_modules/ajv/dist/vocabularies/applicator/properties.js
 var require_properties = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/properties.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/properties.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var validate_1 = require_validate();
@@ -32191,9 +32240,9 @@ var require_properties = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/patternProperties.js
+// node_modules/ajv/dist/vocabularies/applicator/patternProperties.js
 var require_patternProperties = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/patternProperties.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/patternProperties.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var code_1 = require_code2();
@@ -32265,9 +32314,9 @@ var require_patternProperties = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/not.js
+// node_modules/ajv/dist/vocabularies/applicator/not.js
 var require_not = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/not.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/not.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var util_1 = require_util3();
@@ -32296,9 +32345,9 @@ var require_not = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/anyOf.js
+// node_modules/ajv/dist/vocabularies/applicator/anyOf.js
 var require_anyOf = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/anyOf.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/anyOf.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var code_1 = require_code2();
@@ -32313,9 +32362,9 @@ var require_anyOf = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/oneOf.js
+// node_modules/ajv/dist/vocabularies/applicator/oneOf.js
 var require_oneOf = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/oneOf.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/oneOf.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -32371,9 +32420,9 @@ var require_oneOf = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/allOf.js
+// node_modules/ajv/dist/vocabularies/applicator/allOf.js
 var require_allOf = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/allOf.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/allOf.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var util_1 = require_util3();
@@ -32398,9 +32447,9 @@ var require_allOf = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/if.js
+// node_modules/ajv/dist/vocabularies/applicator/if.js
 var require_if = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/if.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/if.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -32467,9 +32516,9 @@ var require_if = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/thenElse.js
+// node_modules/ajv/dist/vocabularies/applicator/thenElse.js
 var require_thenElse = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/thenElse.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/thenElse.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var util_1 = require_util3();
@@ -32485,9 +32534,9 @@ var require_thenElse = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/index.js
+// node_modules/ajv/dist/vocabularies/applicator/index.js
 var require_applicator = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/applicator/index.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/applicator/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var additionalItems_1 = require_additionalItems();
@@ -32533,9 +32582,9 @@ var require_applicator = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/format/format.js
+// node_modules/ajv/dist/vocabularies/format/format.js
 var require_format = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/format/format.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/format/format.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -32623,9 +32672,9 @@ var require_format = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/format/index.js
+// node_modules/ajv/dist/vocabularies/format/index.js
 var require_format2 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/format/index.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/format/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var format_1 = require_format();
@@ -32634,9 +32683,9 @@ var require_format2 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/metadata.js
+// node_modules/ajv/dist/vocabularies/metadata.js
 var require_metadata = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/metadata.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/metadata.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.contentVocabulary = exports2.metadataVocabulary = void 0;
@@ -32657,9 +32706,9 @@ var require_metadata = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/draft7.js
+// node_modules/ajv/dist/vocabularies/draft7.js
 var require_draft7 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/draft7.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/draft7.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var core_1 = require_core4();
@@ -32679,9 +32728,9 @@ var require_draft7 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/discriminator/types.js
+// node_modules/ajv/dist/vocabularies/discriminator/types.js
 var require_types3 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/discriminator/types.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/discriminator/types.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.DiscrError = void 0;
@@ -32693,9 +32742,9 @@ var require_types3 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/discriminator/index.js
+// node_modules/ajv/dist/vocabularies/discriminator/index.js
 var require_discriminator = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/vocabularies/discriminator/index.js"(exports2) {
+  "node_modules/ajv/dist/vocabularies/discriminator/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var codegen_1 = require_codegen();
@@ -32798,9 +32847,9 @@ var require_discriminator = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/refs/json-schema-draft-07.json
+// node_modules/ajv/dist/refs/json-schema-draft-07.json
 var require_json_schema_draft_07 = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/refs/json-schema-draft-07.json"(exports2, module2) {
+  "node_modules/ajv/dist/refs/json-schema-draft-07.json"(exports2, module2) {
     module2.exports = {
       $schema: "http://json-schema.org/draft-07/schema#",
       $id: "http://json-schema.org/draft-07/schema#",
@@ -32955,9 +33004,9 @@ var require_json_schema_draft_07 = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/ajv.js
+// node_modules/ajv/dist/ajv.js
 var require_ajv = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv/dist/ajv.js"(exports2, module2) {
+  "node_modules/ajv/dist/ajv.js"(exports2, module2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.MissingRefError = exports2.ValidationError = exports2.CodeGen = exports2.Name = exports2.nil = exports2.stringify = exports2.str = exports2._ = exports2.KeywordCxt = exports2.Ajv = void 0;
@@ -33025,9 +33074,9 @@ var require_ajv = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv-formats/dist/formats.js
+// node_modules/ajv-formats/dist/formats.js
 var require_formats = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv-formats/dist/formats.js"(exports2) {
+  "node_modules/ajv-formats/dist/formats.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.formatNames = exports2.fastFormats = exports2.fullFormats = void 0;
@@ -33228,9 +33277,9 @@ var require_formats = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv-formats/dist/limit.js
+// node_modules/ajv-formats/dist/limit.js
 var require_limit = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv-formats/dist/limit.js"(exports2) {
+  "node_modules/ajv-formats/dist/limit.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.formatLimitDefinition = void 0;
@@ -33300,9 +33349,9 @@ var require_limit = __commonJS({
   }
 });
 
-// node_modules/@modelcontextprotocol/sdk/node_modules/ajv-formats/dist/index.js
+// node_modules/ajv-formats/dist/index.js
 var require_dist = __commonJS({
-  "node_modules/@modelcontextprotocol/sdk/node_modules/ajv-formats/dist/index.js"(exports2, module2) {
+  "node_modules/ajv-formats/dist/index.js"(exports2, module2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var formats_1 = require_formats();

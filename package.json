@@ -27,7 +27,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AiBrainOrg/selenix"
+    "url": "https://github.com/markmircea/selenix-mcp-server"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.1"

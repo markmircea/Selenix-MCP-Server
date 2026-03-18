@@ -4,6 +4,8 @@
 
 Connect [Claude Desktop](https://claude.ai/download) to [Selenix](https://selenix.io) via the Model Context Protocol. Chat with Claude to create, run, debug, and manage browser automation tests — just like using the built-in AI Assistant, but powered by Claude.
 
+[![Selenix-MCP MCP server](https://glama.ai/mcp/servers/markmircea/Selenix-MCP-Server/badges/card.svg)](https://glama.ai/mcp/servers/markmircea/Selenix-MCP-Server)
+
 ## Prerequisites
 
 - [Selenix](https://selenix.io) desktop app installed

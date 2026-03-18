@@ -1,6 +1,7 @@
 {
   "name": "@selenix/mcp-server",
   "version": "1.0.4",
+  "mcpName": "io.github.markmircea/selenix",
   "description": "MCP server for Selenix - enables Claude Desktop integration with the Selenix AI Assistant",
   "main": "dist/bundle.js",
   "bin": {

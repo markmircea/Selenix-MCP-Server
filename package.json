@@ -1,6 +1,6 @@
 {
   "name": "@selenix/mcp-server",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "mcpName": "io.github.markmircea/selenix",
   "description": "MCP server that bridges Claude Desktop (or any other local app supporting MCP) with Selenix for browser automation and testing. Enables creating, running, debugging, and managing browser automation tests through natural language.",
   "main": "dist/bundle.js",
